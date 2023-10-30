@@ -1,0 +1,7 @@
+#counter{
+    background-image: linear-gradient(180deg, #007bff, #00ff88);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 500;
+}
